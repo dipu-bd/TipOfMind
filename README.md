@@ -1,0 +1,2 @@
+# TipOfMind
+My blog
